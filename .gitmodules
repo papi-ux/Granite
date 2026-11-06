@@ -9,7 +9,7 @@
 	url = https://github.com/Themaister/glslang.git
 [submodule "third_party/spirv-tools"]
 	path = third_party/spirv-tools
-	url = https://github.com/Themaister/SPIRV-Tools
+	url = https://github.com/KhronosGroup/SPIRV-Tools.git
 [submodule "third_party/spirv-headers"]
 	path = third_party/spirv-headers
 	url = https://github.com/KhronosGroup/SPIRV-Headers
